@@ -1,0 +1,27 @@
+[
+  {
+    "id": 10001,
+    "type": "savings",
+    "balance": 123.5
+  },
+  {
+    "id": 10002,
+    "type": "savings",
+    "balance": 500
+  },
+  {
+    "id": 10003,
+    "type": "current",
+    "balance": 2600.0
+  },
+  {
+    "id": 10004,
+    "type": "current",
+    "balance": 2342.0
+  },
+  {
+    "id": 10005,
+    "type": "savings",
+    "balance": 7400.43
+  }
+]
